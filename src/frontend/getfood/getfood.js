@@ -9,6 +9,7 @@ import Parmesanchips from './frontend/foodimages/parmisanchips.jpg';
 import DonutApples from './frontend/foodimages/donutapples.jpg';
 import CucumberSushi from './frontend/foodimages/cucumbersushi.jpeg';
 import avocadodip from './frontend/foodimages/avocadodip.jpg';
+import './getfood.css';
 
 let foodlist = [
     {
